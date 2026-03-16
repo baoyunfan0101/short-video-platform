@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+
+# Node
+node_modules/
+dist/
+
+# Java
+target/
+*.class
+
+# Env files
+.env
+.env.*
+
+# Logs
+*.log
